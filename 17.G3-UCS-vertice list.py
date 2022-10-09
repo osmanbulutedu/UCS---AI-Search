@@ -1,4 +1,4 @@
-# P2-1 (17): Graph3 UCS by using VERTICE LIST.  (Osman Bulut-001530539)
+UCS by using VERTICE LIST
 
 
 
